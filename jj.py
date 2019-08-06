@@ -1,4 +1,6 @@
-def fun():
-    print("Hello World")
-
-fun()
+n=input("Enter number:")
+if n<0:
+    print("Negative number")
+else:
+    print("Positive number")
+    
